@@ -4,6 +4,7 @@ VERSION 2025.2.0
 
 
 Web/android Application Available
+https://exod-ydoxide.itch.io/sold-up
 ​
 💰 Application Description — Sold Up
 Sold Up is your ally in taking back control of your budget and tracking your savings with clarity and simplicity. Designed to help you better understand your finances, this app allows you to manually enter your expenses and income, set monthly limits, link your bank accounts, and monitor your financial progress at a glance.
